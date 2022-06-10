@@ -1,4 +1,4 @@
-<img src="CraftingTable.png" alt="CraftbenchMC Logo (Crafting Table)" width="150" />
+<img src="./CraftingTable.png" alt="CraftbenchMC Logo (Crafting Table)" width="150" />
 
 # CraftbenchMC
 A new, modern, and blazingly fast Minecraft mod loader and modding framework.
