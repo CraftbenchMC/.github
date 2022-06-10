@@ -1,4 +1,4 @@
-![CraftingTable](https://user-images.githubusercontent.com/94275204/173126761-3d0f677e-1685-4d2e-a7a7-1af4fd5dcb2d.png)
+<img src="CraftingTable.png" alt="CraftbenchMC Logo (Crafting Table)" width="150" />
 
 # CraftbenchMC
 A new, modern, and blazingly fast Minecraft mod loader and modding framework.
